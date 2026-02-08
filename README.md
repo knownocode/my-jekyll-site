@@ -1,8 +1,5 @@
 # Minimal Mistakes remote theme starter
 
-> [!IMPORTANT]  
-> Give GitHub Actions **Read and write permissions** on this repo<br>
-> Settings ➡️ Actions ➡️ General ➡️ Workflow Permissions
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
